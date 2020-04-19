@@ -9,6 +9,7 @@
     "resolveJsonModule": true,
     "moduleResolution": "node",
     "noEmitOnError": true,
+    "declaration": true,
     "pretty": true,
     "sourceMap": false,
     "strict": true,
